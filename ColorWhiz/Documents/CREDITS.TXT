@@ -1,0 +1,38 @@
+ColorWhiz Version 2.1
+
+Programming & Design: 
+George Pryor
+
+---------------------
+
+ColorWhiz is a simple color picker
+that allows you to pick a color 
+off the screen or find one by 
+adjusting the color sliders. 
+You can chose from Hex,RGB,HTML 
+and a few other translations and 
+copy the color value to the 
+clipboard. You can also pick a 
+color from the standard Windows 
+color pallete.
+  Also included is a capture 
+utility for saving either a full 
+or rectangular area screenshot.
+
+---------------------
+
+Warranty:
+The author supplies the program 
+'as is',without warranties as to 
+performance, fitness, 
+merchantability, and any other 
+warranty (whether expressed or 
+implied).
+All questions will be answered 
+promptly,please send to:
+support@colorwhiz2.com
+
+---------------------------
+
+© 2005 WINWHIZ SOFTWARE 
+ALL RIGHTS RESERVED

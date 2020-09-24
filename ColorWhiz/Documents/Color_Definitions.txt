@@ -1,0 +1,60 @@
+achromatic
+
+(1) for primary light sources, the computed chromaticity of the equal-energy spectrum. (2) for surface colors, the color of a whitish light, serving as the illuminant, to which adaptation has taken place in the visual system of the observer. (3) perceived as having no hue, that is, as white, gray, or black.  
+
+black
+
+ideally, the complete absorption of incident light; the absence of any reflection. In the practical sense, any color that is close to this ideal in a relative viewing situation, i.e., a color of very low saturation and of low luminance.
+
+ 
+
+brightness 
+
+(1) aspect of visual perception whereby an area appears to emit more or less light; (2) of an object color, combination of lightness and saturation; (3) in the textile industry, perceived as saturated, vivid, deep, or clean. (color); (4) of paper, reflectance of an infinitely thick specimen (reflectivity) measured for blue light with a centroid wavelength of 457 nm under specified spectral and geometric conditions of measurement. (5) dyer’s, the color quality, combining lightness and saturation that would be decreased by adding black, gray, or a complementary color to a chromatic dye. 
+
+chromatic 
+
+perceived as having a hue; not white, gray, or black. (opposite of achromatic)
+ 
+
+color 
+
+(1) of an object, aspect of object appearance distinct from form, shape, size, position, or gloss that depends upon the spectral composition of the incident light, the spectral reflectance of transmittance of the object, and the spectral response of the observer, as well as the illuminating and viewing geometry. (2) perceived, attribute of visual perception that can be described by color names such as white, gray, black, yellow, brown, vivid red, deep reddish purple, or by combinations of such names. (3) psychophysical, characteristics of a color stimulus (that is, light producing a sensation of color) denoted by a colorimetric specification. 
+
+contrast 
+
+objective, the degree of dissimilarity of a measured quantity such as luminance of two areas, expressed as a number computed by a specified formula. 
+ 
+
+dithering
+
+Dithering occurs when you try to display a color on a monitor that is not capable of displaying that color, resulting in a "speckled" appearance. A dithered color is an approximation of a color, that is made by combining pixels of two colors that are available. This happens most often on the web when webmeisters use colors that fall outside the 216 color web safe color palette, and those colors are viewed by a person using a 8-bit (256 color) monitor. 
+
+hue
+
+the attribute of color by means of which a color is perceived to be red, yellow, green, blue, purple, etc. Pure white, black, and grays possess no hue.
+
+ 
+
+lightness
+
+(1) the attribute of color perception by which a non-self-luminous body is judged to reflect more or less light. (2) the attribute by which a perceived color is judged to be equivalent to one of a series of grays ranging from black to white.
+ 
+
+neutral 
+
+achromatic or without hue. 
+
+saturation 
+
+the attribute of color perception that expresses the degree of departure from the gray of the same lightness. All grays have zero saturation. Commonly used as a synonym for chroma especially in graphic arts.  
+
+shade
+
+(1) a color produced by a dye or pigment mixture including black dye or pigment. (2) an expression of color difference from a reference dyeing such that another dye must be added to produce a match. (3) a color slightly different from a reference color. 
+
+
+tint 
+
+the color produced by the mixture of white pigment with absorbing (generally chromatic) colorants. The color of the resulting mixture is lighter and less saturated than the color without the addition of the white.
+ 
