@@ -1,0 +1,95 @@
+[Root]
+Most Recent Package=ColorWhiz 1.0
+
+
+[Package|ColorWhiz 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Georges Stuff\Visual Studio Projects\ColorWhiz\Package
+
+[Package|ColorWhiz 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ColorWhiz 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ColorWhiz 1.0|Files Found]
+
+[Package|ColorWhiz 1.0|Files Released]
+
+[Package|ColorWhiz 1.0|Missing Dependency Information]
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=
+
+[Package|ColorWhiz 1.0|Out-of-Date Dependency Information]
+
+[Package|ColorWhiz 1.0|Files Added]
+
+[Package|ColorWhiz 1.0|Files Removed]
+c:\windows\system32\macromed\flash\flash.ocx=
+
+[Package|ColorWhiz 1.0|Files In Project]
+D:\Georges Stuff\Visual Studio Projects\ColorWhiz\ColorWhiz.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|ColorWhiz 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|ColorWhiz 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|ColorWhiz 1.0|Install Locations]
+D:\Georges Stuff\Visual Studio Projects\ColorWhiz\ColorWhiz.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|ColorWhiz 1.0|Configure Shared Files]
+Applicable=Yes
+D:\Georges Stuff\Visual Studio Projects\ColorWhiz\ColorWhiz.exe=No
+
+[Package|ColorWhiz 1.0|Distribution]
+Type=single
+Size=
+Title=ColorWhiz
+
+[Package|ColorWhiz 1.0|IconGroups]
+Group0=ColorWhiz
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|ColorWhiz 1.0|ColorWhiz]
+Icon1=ColorWhiz.exe
+Title1=ColorWhiz
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|ColorWhiz 1.0|Package]
+PackageFolder=D:\Georges Stuff\Visual Studio Projects\ColorWhiz\Package
+ProjectFolder=D:\Georges Stuff\Visual Studio Projects\ColorWhiz
+ServerSideCab=
+File1=D:\Georges Stuff\Visual Studio Projects\ColorWhiz\Package\setup.exe
+File2=D:\Georges Stuff\Visual Studio Projects\ColorWhiz\Package\Setup.Lst
+File3=D:\Georges Stuff\Visual Studio Projects\ColorWhiz\Package\ColorWhiz.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

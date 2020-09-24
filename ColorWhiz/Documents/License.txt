@@ -1,0 +1,46 @@
+ColorWhiz 2.1 © License Agreement
+
+--------------------------------------------------------------------------------
+
+IMPORTANT-READ CAREFULLY: This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and WinWhiz Software for the software product indentified above, which includes computer software and associated media and printed materials, and may include "online" or eletronic documentation ("SOFTWARE PRODUCT" or "SOFTWARE"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, promptly return the unused SOFTWARE PRODUCT to the place from which you obtained it for a full refund. 
+
+
+--------------------------------------------------------------------------------
+
+ColorWhiz 2.1 Product License
+ColorWhiz 2.1 is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. ColorWhiz 2.1 is licensed, not sold.
+
+GRANT OF LICENSE. The Agreement grans you the following rights: 
+Systems Software. You may install and use one copy of ColorWhiz 2.1 on a single computer. If ColorWhiz 2.1 includes functionality that enables your single computer to act as a network server, any number of computers or workstations may access or otherwise utilize the basic network services of that server. The basic network services are more fully described in the other "online" materials accompanying ColorWhiz 2.1. 
+Storage/Network Use. You may also store or install a copy of ColorWhiz 2.1 on a storage device, such as a network server, used only to install or run ColorWhiz 2.1 on your other computers over an internal network; however, you must acquire and dedicate a license for each separate computer on which ColorWhiz 2.1 is installed or run from the storage device. A license for ColorWhiz 2.1 may not be shared or used concurrently on different computers. 
+DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+Separation of Components. ColorWhiz 2.1 is licensed as a single product. Its component parts may not be separated for use on more than one computer. 
+Rental. You may not rent or lease ColorWhiz 2.1. 
+Software Transfer. You may permanently transfer all of your rights under this Agreement, provided you retain no copies, you transfer all of ColorWhiz 2.1 (including all component parts, the media and printed materials, any upgrades, in this Agreement, and the recipient agrees to the terms of this Agreement. If ColorWhiz 2.1 is an upgrade, any transfer must include all prior versions of ColorWhiz 2.1. 
+Termination. Without prejudice to any other rights, WinWhiz Software may terminate this Agreement if you fail to comply with the terms and conditions of this Agreement. In such event, you must destroy all copies of ColorWhiz 2.1 and all of its component parts. 
+UPGRADES. If ColorWhiz 2.1 is an upgrade from another product, whether from WinWhiz Software or another supplier, you may use or transfer ColorWhiz 2.1 only in conjunction with that upgraded product, unless you destroy the upgraded product. If ColorWhiz 2.1 is an upgrade of a WinWhiz Software product, you now may use that upgraded product only in accordance with this Agreement. If ColorWhiz 2.1 is an upgrade of a component of a package of software programs that you licensed as a single product, ColorWhiz 2.1 may be used and transferred only as part of that single product package and may not be separated for use on more than one computer. 
+COPYRIGHT. All title and copyrights in and to ColorWhiz 2.1 (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets," incorporated into ColorWhiz 2.1), the accompanying printed materials, and any copies of ColorWhiz 2.1, are owned by WinWhiz Software or its suppliers. ColorWhiz 2.1 is protected by copyright laws and international treaty provisions. Therefore, you must treat ColorWhiz 2.1 like any other copyrighted material except that you may either (a) make one copy of ColorWhiz 2.1 solely for backup or archival purposes, or (b) install ColorWhiz 2.1 on a single computer provided you keep the original solely for backup or archival purposes. You may not copy the printer materials accompanying ColorWhiz 2.1. 
+U.S. GOVERNMENT RESTRICTED RIGHTS. 
+
+--------------------------------------------------------------------------------
+
+
+MISCELLANEOUS
+If you acquired this product in the United State, the Agreement is governed by the laws of the State of Florida.
+
+If this product was acquired outside the United State, then local law may apply.
+
+Should you have any questions concerning thie Agreement, or if you desire to contact WinWhiz Software for any reason, George Pryor, WinWhiz Software, Clearwater, FL. 33762  (727)278-4502
+
+
+--------------------------------------------------------------------------------
+
+LIMITED WARRANTY
+LIMITED WARRANTY, WinWhiz SOftware warrants that ColorWhiz 2.1 will perform substantially in accordance with the accompanying materials for a period of ninety (90) days from the date of receipt. Some states and jurisdictions do not allow limitations on duration on an implied warrranty, so the above limitation may not apply to you. To the extent allowed by applicable law, implied warranties on ColorWhiz 2.1 if any, are limited to ninety (90) days.
+
+CUSTOMER REMEDIES. WinWhiz Software's and its suppliers' entire liability and your exclusive remedy shall be, at WinWhiz Software's option, either (a) return of the price paid, or (b) repair or replacement of ColorWhiz 2.1 that does not meet WinWhiz Software's Limited Warranty and which is returned to WinWhiz Software with a copy of your receipt. This Limited Warranty is void if failure of ColorWhiz 2.1 has resulted from accident, abuse, or misapplication. Any replacement ColorWhiz 2.1 will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer.
+
+Outside the United States, neither these remedies nor any product support services offered by WinWhiz Software are available without proof of purchase from an authorized international source. 
+NO OTHER WARRANITES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WinWhiz Software AND ITS SUPPLIERS DISCLAIM ALL OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH REGARD TO ColorWhiz 2.1, AND ANY ACCOMPANYING HARDWARE. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS, WHICH VARY FROM STATE/JURISDICTION TO STATE/JURISDICTION.
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WinWhiz Software OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OR BUSSINESS PROFITS, BUSINESS INTERRUPTION, LOASS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE ColorWhiz 2.1, EVEN IF WinWhiz Software HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME SATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMIATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
